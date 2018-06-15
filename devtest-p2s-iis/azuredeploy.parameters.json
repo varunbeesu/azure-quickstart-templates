@@ -5,10 +5,10 @@
 	    "environmentPrefix": {
             "value": "DevTest"
         },"adminUsername": {
-            "value": "winadmin"
+            "value": "GEN-UNIQUE"
         },
         "adminPassword": {
-            "value": "ChangeMe!"
+            "value": "GEN-PASSWORD"
         },
         "vpnClientAddressPoolPrefix": {
             "value": "10.10.8.0/24"
